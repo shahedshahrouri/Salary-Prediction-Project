@@ -1,0 +1,52 @@
+[
+    {
+        "job_title": "Principal Data Scientist",
+        "company_location": "ES",
+        "salary_in_usd": 85847
+    },
+    {
+        "job_title": "ML Engineer",
+        "company_location": "US",
+        "salary_in_usd": 30000
+    },
+    {
+        "job_title": "ML Engineer",
+        "company_location": "US",
+        "salary_in_usd": 25500
+    },
+    {
+        "job_title": "Data Scientist",
+        "company_location": "CA",
+        "salary_in_usd": 175000
+    },
+    {
+        "job_title": "Data Scientist",
+        "company_location": "CA",
+        "salary_in_usd": 120000
+    },
+    {
+        "job_title": "Applied Scientist",
+        "company_location": "US",
+        "salary_in_usd": 222200
+    },
+    {
+        "job_title": "Applied Scientist",
+        "company_location": "US",
+        "salary_in_usd": 136000
+    },
+    {
+        "job_title": "Data Scientist",
+        "company_location": "CA",
+        "salary_in_usd": 219000
+    },
+    {
+        "job_title": "Data Scientist",
+        "company_location": "CA",
+        "salary_in_usd": 141000
+    },
+    {
+        "job_title": "Data Scientist",
+        "company_location": "US",
+        "salary_in_usd": 147100
+    }
+]
